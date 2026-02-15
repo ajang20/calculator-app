@@ -28,10 +28,11 @@ form input {
   /* margin:5px 0px 15px 0px; */
 }
 .display input {
-  background-color: rgb(107, 112, 112);
+  background-color: rgb(91, 95, 95);
   text-align: right;
   flex: 1;
   font-size:40px;
+  color:white;
 }
 .orange{
     background-color:#f38636;
